@@ -23,7 +23,7 @@ Parametrs of LCD display:
  - Brand: Waveshare Electronics.
 
 How to use it ?<br>
-<br>
+
 In order to make the program work, you should do the following:
  - Open Keil MDK-ARM toolchain;
  - Rebuild all files;
